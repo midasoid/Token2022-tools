@@ -11,7 +11,7 @@ This projects are specially made for SPL Token 2022 and it intracts with Raydium
   Mainnet Token Creator Wallet: https://solscan.io/account/B7nBicWq8h4T6FbdzttpKtiASaPh6gQHLkJcQrEQTHBm
 
   Token: https://dexscreener.com/solana/3v72nAg7jeCJbexNmZGhPFVcwhxBghP8zBqoqCBVkU4R
-### Token2022 Raydium Bundler - Supporgin CLMM CPMM
+### Token2022 Raydium Bundler - Supporting CLMM, CPMM
 
 ### How To Contact
 Kindly call me for detailed information. I will kindly help you.
