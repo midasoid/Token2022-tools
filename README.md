@@ -1,7 +1,6 @@
 # Token2022 Tools
 This projects are specially made for SPL Token 2022 and it intracts with Raydium Cpmm pool
 
-## List
 ### Pumpfun contract supporting CLMM and CPMM pool of Raydium
   This contract can integrate CLMM and CPMM pool of Raydium, not only AMM like former pump.fun. This can support Token2022 so that user can launch their own extention(tax, metadata-pointer ...) through this contract as they did normal token on pump.fun
 ### Token2022 tax claimer
